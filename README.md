@@ -1,3 +1,5 @@
+https://github.com/fartovich/sp6-1_parser_starter-main.git
+
 # sp6-1_parser_starter
 
 Для запуска откройте `index.html` и выполняйте работе в файле parser.js.
